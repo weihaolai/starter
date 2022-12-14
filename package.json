@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinliang/starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinliang/starter/issues"
+  },
+  "homepage": "https://github.com/devinliang/starter#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "remixicon": "^2.5.0"
+  }
+}
